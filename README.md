@@ -16,6 +16,8 @@ My interests include Exploring Drone Tech,competitive programming, web developme
 
 ## **Skills**
 C++ Python JavaScript HTML CSS SQL
+
+
 ---
 
 ## 🏆 **Achievements & Hobbies**
