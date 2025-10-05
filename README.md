@@ -68,4 +68,4 @@ C++ Python JavaScript HTML CSS SQL
 ### ⚡ **Quick Tips**
 - Open **`index.html`** in your browser to view the portfolio.  
 - All projects are **live/demo links** where available.  
-- Contributions are welcome! (Portfolio is personal but open to suggestions)
+- This is my end term project...Thank You!
