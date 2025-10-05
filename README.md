@@ -3,13 +3,15 @@
 # **Abhay Kumar - Portfolio**
 
 Welcome to my personal portfolio! 🚀  
-I’m Passionate about coding, problem solving and building cool projects. Currently studying at Scaler School Of Technology X BITS Pilani.
+
 ---
 
 </center>
 
 ## 🌟 **About Me**
 -I’m a **first-year B.Sc.(Hons) Computer Science** student at SST X BITS Pilani, I love solving problems and learning new technologies.
+
+I’m Passionate about coding, problem solving and building cool projects.
 
 My interests include Exploring Drone Tech,competitive programming, web development, AI/ML, and cybersecurity. Always excited to work on challenging projects!
 
