@@ -10,11 +10,12 @@ I’m a **first-year B.Sc.(Hons) Computer Science** student at SST X BITS Pilani
 </center>
 
 ## 🌟 **About Me**
-- Full-stack enthusiast with interests in **C++**, **Python**, **JavaScript**, **HTML**, **CSS**, **SQL**.  
-- Explorer of **AI/ML**, **web development**, **competitive programming**, and **cybersecurity**.  
-- Former national-level **cricket athlete** & defence aspirant (IAF).  
-- Always excited to work on challenging projects and innovative ideas.
+-I'm a first-year B.Sc.(Hons) Computer Science student at SST X BITS Pilani. I love solving problems and learning new technologies.
 
+My interests include Exploring Drone Tech,competitive programming, web development, AI/ML, and cybersecurity. Always excited to work on challenging projects!
+
+## **Skills**
+C++ Python JavaScript HTML CSS SQL
 ---
 
 ## 🏆 **Achievements & Hobbies**
