@@ -1,6 +1,6 @@
 <center>
 
-# **Abhay Kumar Mishra - Portfolio**
+# **Abhay Kumar - Portfolio**
 
 Welcome to my personal portfolio! 🚀  
 I’m a **first-year B.Sc.(Hons) Computer Science** student at SST X BITS Pilani, passionate about coding, problem-solving, and building creative projects.
